@@ -8,8 +8,8 @@ MarkupSafe==2.0.1
 packaging==20.9
 plumbum==1.7.0
 pycparser==2.20
-pygit2==1.6.0
+pygit2>=1.6.0
 pyparsing==2.4.7
-PyYAML==5.4.1
+PyYAML>=5.4.1
 resolvelib==0.5.4
 
