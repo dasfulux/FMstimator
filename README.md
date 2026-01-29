@@ -1,11 +1,15 @@
 # FMstimator
 
-FMstimator approximates a feature model for a target commit based on the commit history of the respective project.
+The original FMstimator approximates a feature model for a target commit based on the commit history of the respective project.
 Starting from two feature models, it performs stepwise updates to the models to update them to the target commit.
 In the end, both models are merged to create the final model.
 
 The tool is located in the directory [src](src).
 
+## Disclaimer
+
+This is a fork from: https://github.com/padupr/FMstimator.
+The purpose of this version of the FMstimator will be not to approximate and merge different versions of a feature model, but to track and document the changes at defined points within the different version.
 
 ## Setup
 
