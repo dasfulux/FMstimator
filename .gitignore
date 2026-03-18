@@ -3,3 +3,12 @@
 
 # VSCode Settings
 .vscode/
+
+# Output directory
+output/
+out/
+results/
+
+# Logs
+logs/
+*.log
