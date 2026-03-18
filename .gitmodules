@@ -1,18 +1,18 @@
-[submodule "eval/seamcarving_eval/repo"]
-	path = eval/seamcarving_eval/repo
-	url = git@github.com:padupr/seamcarving.git
-[submodule "eval/grep_eval/repo"]
-	path = eval/grep_eval/repo
-	url = git://git.savannah.gnu.org/grep.git
-[submodule "eval/curl_eval/repo"]
-	path = eval/curl_eval/repo
-	url = git@github.com:curl/curl.git
-[submodule "eval/libvpx_eval/repo"]
-	path = eval/libvpx_eval/repo
-	url = https://chromium.googlesource.com/webm/libvpx
-[submodule "eval/lrzip_eval/repo"]
-	path = eval/lrzip_eval/repo
-	url = https://github.com/ckolivas/lrzip.git
 [submodule "vara-feature"]
 	path = vara-feature
 	url = git@github.com:se-sic/vara-feature.git
+[submodule "eval/brotli_eval/repo"]
+	path = eval/brotli_eval/repo
+	url = https://github.com/google/brotli.git
+[submodule "eval/7zip_eval/repo"]
+	path = eval/7zip_eval/repo
+	url = https://github.com/ip7z/7zip.git
+[submodule "eval/FastDownward_eval/repo"]
+	path = eval/FastDownward_eval/repo
+	url = https://github.com/aibasel/downward.git
+[submodule "eval/libzmq_eval/repo"]
+	path = eval/libzmq_eval/repo
+	url = https://github.com/zeromq/libzmq.git
+[submodule "eval/libvpx_eval/repo"]
+	path = eval/libvpx_eval/repo
+	url = https://chromium.googlesource.com/webm/libvpx
