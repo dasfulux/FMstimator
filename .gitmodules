@@ -16,3 +16,21 @@
 [submodule "eval/libvpx_eval/repo"]
 	path = eval/libvpx_eval/repo
 	url = https://chromium.googlesource.com/webm/libvpx
+[submodule "eval/bzip2_eval/repo"]
+	path = eval/bzip2_eval/repo
+	url = https://github.com/libarchive/bzip2.git
+[submodule "eval/cryptominisat_eval/repo"]
+	path = eval/cryptominisat_eval/repo
+	url = https://github.com/msoos/cryptominisat.git
+[submodule "eval/dune_eval/repo"]
+	path = eval/dune_eval/repo
+	url = https://github.com/se-sic/dune-VaRA
+[submodule "eval/lrzip_eval/repo"]
+	path = eval/lrzip_eval/repo
+	url = https://github.com/ckolivas/lrzip
+[submodule "eval/xz_eval/repo"]
+	path = eval/xz_eval/repo
+	url = https://github.com/tukaani-project/xz
+[submodule "eval/x264_eval/repo"]
+	path = eval/x264_eval/repo
+	url = https://code.videolan.org/videolan/x264
