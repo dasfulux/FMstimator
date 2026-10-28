@@ -22,9 +22,6 @@
 [submodule "eval/cryptominisat_eval/repo"]
 	path = eval/cryptominisat_eval/repo
 	url = https://github.com/msoos/cryptominisat.git
-[submodule "eval/dune_eval/repo"]
-	path = eval/dune_eval/repo
-	url = https://github.com/se-sic/dune-VaRA
 [submodule "eval/lrzip_eval/repo"]
 	path = eval/lrzip_eval/repo
 	url = https://github.com/ckolivas/lrzip
@@ -34,3 +31,6 @@
 [submodule "eval/x264_eval/repo"]
 	path = eval/x264_eval/repo
 	url = https://code.videolan.org/videolan/x264
+[submodule "eval/dune_eval/repo"]
+	path = eval/dune_eval/repo
+	url = https://github.com/se-sic/dune-VaRA.git
